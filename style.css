@@ -23,11 +23,13 @@ header {
 }
 
 .social i { 
-  display: inline-block; margin-left: 20px; 
+  display: inline-block;
+  margin-left: 20px; 
   
 }
 .social { 
-  position: absolute; top: 22px; right: 22px;
+  position: absolute; top:
+  22px; right: 22px;
 }
 
 header .heading { /* headerタグ内のheadingクラスにのみ反映される */
@@ -223,4 +225,9 @@ footer {
 
 .footer-text {
   color: #fff;
+}
+
+@media screen and (max-width: 425px) {
+
+
 }
