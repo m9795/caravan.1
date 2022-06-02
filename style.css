@@ -181,7 +181,7 @@ main {
 }
 
 .instagram-box {
-  width: 110px;
+  width: 110px; /* この行と下の行が画像のサイズ100ｘ100を指定している*/
   padding-top: 110px;
   background-size: cover;
   background-position: center;
