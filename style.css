@@ -28,8 +28,9 @@ header {
   
 }
 .social { 
-  position: absolute; top:
-  22px; right: 22px;
+  position: absolute;
+  top: 22px;
+  right: 22px;
 }
 
 header .heading { /* headerタグ内のheadingクラスにのみ反映される */
